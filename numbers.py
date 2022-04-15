@@ -6,5 +6,5 @@ for x in array:
 
 newArr.remove(max(newArr))
 newArr.remove(min(newArr))
-print("The second largest in the array is: {}".format(max((newArr))))
-print("The second smallest in the array is: {}".format(min((newArr))))
+print("The second largest in the array is: {}".format(max(newArr)))
+print("The second smallest in the array is: {}".format(min(newArr)))
